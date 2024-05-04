@@ -17,7 +17,7 @@ In addition to my professional endeavors and IT consulting, I also offer my serv
 
 With an unwavering work ethic and a passion for tackling challenging projects, I am committed to continuously expanding my knowledge and skills while applying them to support the mission at hand. 
 
-Join me on this journey as I showcase my accomplishments, skills, and dedication to IT excellence.
+Join me on this journey as I showcase my accomplishments, skills, and dedication to continued IT excellence.
 
 <br>
 
