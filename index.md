@@ -3,8 +3,9 @@ layout: default
 title: "Home"
 ---
 
-
+<div style="text-align: center;">
 <img src="assets/img/homepage/stock2.jpg" alt="Profile Picture" width="800px" />
+</div>
 
 
 ## Comprehensive IT Support Services
