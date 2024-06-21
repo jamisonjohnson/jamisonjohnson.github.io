@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <div style="text-align: center;">
-<img src="assets/img/homepage/stock2.jpg" alt="Profile Picture" width="800px" />
+<img src="assets/img/homepage/stock1.jpg" alt="Profile Picture" width="800px" />
 </div>
 
 
@@ -17,25 +17,21 @@ Welcome to Johnson Premier Consulting, LLC, where we specialize in providing top
 ## Our Services
 
 ### Network Infrastructure Management
-
 - Secure network maintenance
 - Firewall and certificate management
 - Linux server administration (RHEL, CentOS, Ubuntu)
 - Hardware management including switches and other network devices
 
 ### Remote and On-Site Support
-
 - VPN and remote service management
 - Advanced user support for network connectivity, including telephone and internet services
 - Troubleshooting for IT staff
 
 ### Vendor and Collaboration Services
-
 - Point of contact for third-party vendors
 - Collaboration with IT development teams to enhance website security and development
 
 ### Data Backup and Documentation
-
 - Comprehensive data backup solutions
 - Detailed documentation of processes and procedures for future reference
 
@@ -48,22 +44,18 @@ Welcome to Johnson Premier Consulting, LLC, where we specialize in providing top
 
 
 ### Expertise and Reliability
-
 - Nearly 15 years of experience in IT support and network management
 - Strong command of critical security standards and network security protocols
 
 ### Flexible and Remote Work
-
 - Primarily remote work with on-site visits as needed
 - Available for emergencies and ongoing consultation
 
 ### Comprehensive Support
-
 - Full range of IT services from infrastructure management to user support
 - Tailored solutions to meet the specific needs of your organization
 
 ### Transparent Reporting
-
 - Clear and detailed reporting on project progress and hours worked
 
 ## Our Commitment
