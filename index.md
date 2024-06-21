@@ -39,6 +39,7 @@ Welcome to Johnson Premier Consulting, LLC, where we specialize in providing top
 - Weekly/monthly tracking reports
 - Staff training and general IT consultation
 
+<br>
 
 ## Why Choose Us?
 
@@ -58,6 +59,8 @@ Welcome to Johnson Premier Consulting, LLC, where we specialize in providing top
 ### Transparent Reporting
 - Clear and detailed reporting on project progress and hours worked
 
+<br>
+
 ## Our Commitment
 
 At Johnson Premier Consulting, LLC, we understand the critical role that IT infrastructure plays in your business operations. We are committed to providing high-quality, reliable, and secure IT support services that ensure your systems run smoothly and efficiently.
@@ -71,4 +74,4 @@ Email: [johnsonpremierconsulting@gmail.com](mailto:johnsonpremierconsulting@gmai
 <br>
 Phone: (240) 412-2886
 
-You can help support my work by donating [here](https://www.paypal.com/paypalme/JamisonJohnson/).
+You can help support our work by donating [here](https://www.paypal.com/paypalme/JamisonJohnson/).
