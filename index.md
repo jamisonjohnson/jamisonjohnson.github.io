@@ -4,24 +4,92 @@ title: "Home"
 ---
 
 
-<img src="assets/img/homepage/profile-pic2.jpg" alt="Profile Picture" width="300px" />
+<img src="assets/img/homepage/profile-pic2.jpg" alt="Profile Picture" width="800px" />
 
 
-## Welcome to My IT Portfolio!
+## Comprehensive IT Support Services
 
-With over 13 years of experience in government support and system administration, I bring a wealth of expertise in various areas of IT. As a seasoned professional, I have a strong command of DoD security standards, network security protocols, system hardening, and troubleshooting both software and hardware. My proficiency extends to administering Linux distributions such as RHEL, CentOS, and Ubuntu, as well as managing Windows 10/11 and Windows Server environments. Additionally, I excel in creating and maintaining VMware vSphere and Proxmox virtual environments.
 
-Furthermore, I leverage my IT knowledge and skills to assist individuals and small businesses with their IT needs on an as-needed and project basis. Whether it's providing guidance on technology decisions, setting up and securing networks, or troubleshooting complex issues, I am dedicated to delivering top-notch IT solutions tailored to the unique requirements of each client.
-
-In addition to my professional endeavors and IT consulting, I also offer my services as a freelance web developer. I specialize in creating static websites that cater to the specific needs of clients, helping them establish a robust online presence. My goal is to craft well-designed and functional websites that align with the vision and goals of businesses and individuals. Whether it's showcasing a personal portfolio or creating a professional website for a small business, I am committed to delivering high-quality results that exceed expectations.
-
-With an unwavering work ethic and a passion for tackling challenging projects, I am committed to continuously expanding my knowledge and skills while applying them to support the mission at hand. 
-
-Join me on this journey as I showcase my accomplishments, skills, and dedication to continued IT excellence.
+Welcome to Johnson Premier Consulting, LLC, where we specialize in providing top-tier IT support services tailored to meet the unique needs of your business. With nearly 15 years of experience in government support and system administration, we bring a wealth of expertise to ensure your IT infrastructure is robust, secure, and efficiently managed, allowing you to focus on what you do best.
 
 <br>
 
-You may download my resume by clicking [here](/assets/files/JamisonJohnsonResume_2023.pdf).
+## Our Services
+
+<br>
+
+### Network Infrastructure Management
+
+- Secure network maintenance
+- Firewall and certificate management
+- Linux server administration (RHEL, CentOS, Ubuntu)
+- Hardware management including switches and other network devices
+
+<br>
+
+### Remote and On-Site Support
+
+- VPN and remote service management
+- Advanced user support for network connectivity, including telephone and internet services
+- Troubleshooting for IT staff
+
+<br>
+
+### Vendor and Collaboration Services
+
+- Point of contact for third-party vendors
+- Collaboration with IT development teams to enhance website security and development
+
+<br>
+
+### Data Backup and Documentation
+
+- Comprehensive data backup solutions
+- Detailed documentation of processes and procedures for future reference
+
+<br>
+
+### Project Reporting and Training
+- Weekly/monthly tracking reports
+- Staff training and general IT consultation
+
+<br>
+
+## Why Choose Us?
+
+<br>
+
+### Expertise and Reliability
+
+- Nearly 15 years of experience in IT support and network management
+- Strong command of critical security standards and network security protocols
+
+### Flexible and Remote Work
+
+- Primarily remote work with on-site visits as needed
+- Available for emergencies and ongoing consultation
+
+### Comprehensive Support
+
+- Full range of IT services from infrastructure management to user support
+- Tailored solutions to meet the specific needs of your organization
+
+### Transparent Reporting
+
+- Clear and detailed reporting on project progress and hours worked
+
+<br>
+
+## Our Commitment
+
+At Johnson Premier Consulting, LLC, we understand the critical role that IT infrastructure plays in your business operations. We are committed to providing high-quality, reliable, and secure IT support services that ensure your systems run smoothly and efficiently.
+
+## Contact Us
+
+Ready to take your IT infrastructure to the next level? Contact us today to discuss your needs and how we can help.
+
+Email: johnsonpremierconsulting@gmail.com
+Phone: (240) 412-2886
 
 You can help support my work by donating [here](https://www.paypal.com/paypalme/JamisonJohnson/).
 
